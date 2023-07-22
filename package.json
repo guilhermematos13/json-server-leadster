@@ -1,13 +1,11 @@
 {
   "name": "json-server-leadster",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3"
   }
